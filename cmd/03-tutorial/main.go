@@ -1,5 +1,7 @@
 package main
 
+// An example to understand how functions works, also includes error handling
+
 import (
 	"errors"
 	"fmt"
